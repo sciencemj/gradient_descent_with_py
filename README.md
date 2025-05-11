@@ -1,12 +1,6 @@
-# Gradient Descent Research
-
-This repository focuses on exploring and analyzing gradient descent algorithms used in optimization and machine learning. It includes theoretical explanations, practical implementations, and experiments to understand the behavior and performance of various gradient descent techniques.
-
-## Contents
-- Overview of gradient descent methods
-- Code implementations in Python
-- Visualizations and performance comparisons
-- Research findings and insights
-
-## Purpose
-The goal of this repository is to provide a comprehensive resource for understanding gradient descent and its applications in data science and machine learning.
+# PYTHON DATA SCIENCE RESEARCH EXAMPLES
+This project contains a collection of Python examples and resources for conducting data science research. It is designed to help researchers and data enthusiasts explore various techniques, tools, and libraries commonly used in the field of data science. The examples cover topics such as data preprocessing, visualization, statistical analysis, and machine learning.
+## CONTENTS
++ gradient descent 
++ kmean
++ future update...
